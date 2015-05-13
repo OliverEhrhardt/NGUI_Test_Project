@@ -1,6 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*
+Summary:
+Event for random button, changes value on slider to a random float value between 0 and 1.
+ */
+
 public class RandomButton : MonoBehaviour {
 
 	//////////////PUBLIC VARIABLES//////////////
